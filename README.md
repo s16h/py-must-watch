@@ -8,6 +8,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 
 ## 2012
 * [Jack Diederich: **Stop Writing Classes**](https://www.youtube.com/watch?v=o9pEzgHorH0)
+* [Vladimir Keleshev: **Create beautiful command-line interfaces with Python](http://www.youtube.com/watch?v=pXhcPJK5cMc)
 
 ## 2013
 * [Raymond Hettinger: **Transforming Code into Beautiful, Idiomatic Python**](https://www.youtube.com/watch?v=OSGv2VnC0go)
