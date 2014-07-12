@@ -16,3 +16,4 @@ Must-watch videos about Python
 * [Alex Gaynor: **Fast Python, Slow Python**](https://www.youtube.com/watch?v=7eeEf_rAJds)
 * [Benjamin Peterson: **Garbage Collection in Python**](https://www.youtube.com/watch?v=iHVs_HkjdmI)
 * [Brandon Rhodes: **All Your Ducks In A Row: Data Structures in the Standard Library and Beyond**](https://www.youtube.com/watch?v=fYlnfvKVDoM)
+* [Mike Müller: **Faster Python Programs through Optimization**](https://www.youtube.com/watch?v=wNBJDpyRm8w)
