@@ -13,6 +13,8 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * [Raymond Hettinger: **Transforming Code into Beautiful, Idiomatic Python**](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [Raymond Hettinger: **Python's Class Development Toolkit**](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 * [Kenneth Reitz: **Python for Humans**](http://www.youtube.com/watch?v=QpkHt1hDYTo)
+* [David Beazley: **Generators: The Final Frontier**](https://www.youtube.com/watch?v=5-qadlG7tWo)
+* [David Beazley: **Python 3 Metaprogramming**](https://www.youtube.com/watch?v=sPiWg5jSoZI)
 
 ## 2014
 * [Alex Gaynor: **Fast Python, Slow Python**](https://www.youtube.com/watch?v=7eeEf_rAJds)
