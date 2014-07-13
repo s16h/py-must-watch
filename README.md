@@ -21,3 +21,5 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * [Benjamin Peterson: **Garbage Collection in Python**](https://www.youtube.com/watch?v=iHVs_HkjdmI)
 * [Brandon Rhodes: **All Your Ducks In A Row: Data Structures in the Standard Library and Beyond**](https://www.youtube.com/watch?v=fYlnfvKVDoM)
 * [Mike Müller: **Faster Python Programs through Optimization**](https://www.youtube.com/watch?v=wNBJDpyRm8w)
+* [A. Jesse Jiryu Davis: **What Is Async, How Does It Work, And When Should I Use It? - PyCon 2014**](https://www.youtube.com/watch?v=9WV7juNmyE8)
+* [Guido van Rossum: **Tulip: Async I/O for Python 3**](https://www.youtube.com/watch?v=1coLC-MUCJc)
