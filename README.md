@@ -6,6 +6,9 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * [Brandon Rhodes: **The Mighty Dictionary**](https://www.youtube.com/watch?v=C4Kc8xzcA68)
 * [David Beazley: **Understanding the Python GIL**](http://www.youtube.com/watch?v=Obt-vMVdM8s)
 
+## 2011
+* [Raymond Hettinger: **API Design: Lessons Learned**](http://pyvideo.org/video/366/pycon-2011--api-design--lessons-learned)
+
 ## 2012
 * [Jack Diederich: **Stop Writing Classes**](https://www.youtube.com/watch?v=o9pEzgHorH0)
 
