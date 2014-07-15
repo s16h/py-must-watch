@@ -22,5 +22,6 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * [Alex Gaynor: **Fast Python, Slow Python**](https://www.youtube.com/watch?v=7eeEf_rAJds)
 * [Benjamin Peterson: **Garbage Collection in Python**](https://www.youtube.com/watch?v=iHVs_HkjdmI)
 * [Brandon Rhodes: **All Your Ducks In A Row: Data Structures in the Standard Library and Beyond**](https://www.youtube.com/watch?v=fYlnfvKVDoM)
+* [Christine Spang: **Subprocess to FFI: Memory, Performance, and Why You Should'nt Shell - PyCon 2014**](https://www.youtube.com/watch?v=YAO7PUZvVPw)
 * [Guido van Rossum: **Tulip: Async I/O for Python 3**](https://www.youtube.com/watch?v=1coLC-MUCJc)
 * [Mike Müller: **Faster Python Programs through Optimization**](https://www.youtube.com/watch?v=wNBJDpyRm8w)
