@@ -2,6 +2,9 @@ Must-watch videos about Python
 =============
 Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Create pull requests to add more awesome links :-)
 
+## 2009
+* [David Beazley: **Inside the Python GIL**](https://www.youtube.com/watch?v=ph374fJqFPE)
+
 ## 2010
 * [Brandon Rhodes: **The Mighty Dictionary**](https://www.youtube.com/watch?v=C4Kc8xzcA68)
 * [David Beazley: **Understanding the Python GIL**](http://www.youtube.com/watch?v=Obt-vMVdM8s)
