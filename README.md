@@ -14,8 +14,8 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 
 ## 2012
 * [Jack Diederich: **Stop Writing Classes**](https://www.youtube.com/watch?v=o9pEzgHorH0)
-* [Raymond Hettinger: **The Art of Subclassing**](https://www.youtube.com/watch?v=miGolgp9xq8)
 * [Peter Inglesby: **Discovering Descriptors**](https://www.youtube.com/watch?v=D3-NZXHO5QI)
+* [Raymond Hettinger: **The Art of Subclassing**](https://www.youtube.com/watch?v=miGolgp9xq8)
 
 ## 2013
 * [David Beazley: **Generators: The Final Frontier**](https://www.youtube.com/watch?v=5-qadlG7tWo)
