@@ -2,6 +2,9 @@ Must-watch videos about Python
 =============
 Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Create pull requests to add more awesome links :-)
 
+## 2008
+* [Guido van Rossum: **Rapid Development with Python, Django, and Google App Engine**](https://www.youtube.com/watch?v=v1gTI4BOPUw)
+
 ## 2009
 * [David Beazley: **Inside the Python GIL**](https://www.youtube.com/watch?v=ph374fJqFPE)
 
