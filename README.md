@@ -23,9 +23,10 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * [David Beazley: **Generators: The Final Frontier**](https://www.youtube.com/watch?v=5-qadlG7tWo)
 * [David Beazley: **Python 3 Metaprogramming**](https://www.youtube.com/watch?v=sPiWg5jSoZI)
 * [Jessica McKellar: **The Future of Python - A Choose Your Own Adventure**](https://www.youtube.com/watch?v=d1a4Jbjc-vU)
-* [Kenneth Reitz: **Python for Humans**](http://www.youtube.com/watch?v=QpkHt1hDYTo)
+* [Kenneth Reitz: **Python for Humans**](https://www.youtube.com/watch?v=QpkHt1hDYTo)
 * [Raymond Hettinger: **Python's Class Development Toolkit**](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 * [Raymond Hettinger: **Transforming Code into Beautiful, Idiomatic Python**](https://www.youtube.com/watch?v=OSGv2VnC0go)
+* [Brett Cannon: **Python 3.3: Trust Me, It's Better than 2.7**](https://www.youtube.com/watch?v=f_6vDi7ywuA)
 
 ## 2014
 * [A. Jesse Jiryu Davis: **What Is Async, How Does It Work, And When Should I Use It? - PyCon 2014**](https://www.youtube.com/watch?v=9WV7juNmyE8)
