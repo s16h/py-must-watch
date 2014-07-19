@@ -13,11 +13,11 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * [Raymond Hettinger: **API Design: Lessons Learned**](http://pyvideo.org/video/366/pycon-2011--api-design--lessons-learned)
 
 ## 2012
+* [Erik Rose: **Parsing Horrible Things with Python**](https://www.youtube.com/watch?v=tCUdeLIj4hE)
 * [Jack Diederich: **Stop Writing Classes**](https://www.youtube.com/watch?v=o9pEzgHorH0)
+* [Ned Batchelder: **Pragmatic Unicode, or, How do I stop the pain?**](https://www.youtube.com/watch?v=sgHbC6udIqc)
 * [Peter Inglesby: **Discovering Descriptors**](https://www.youtube.com/watch?v=D3-NZXHO5QI)
 * [Raymond Hettinger: **The Art of Subclassing**](https://www.youtube.com/watch?v=miGolgp9xq8)
-* [Erik Rose: **Parsing Horrible Things with Python**](https://www.youtube.com/watch?v=tCUdeLIj4hE)
-* [Ned Batchelder: **Pragmatic Unicode, or, How do I stop the pain?**](https://www.youtube.com/watch?v=sgHbC6udIqc)
 
 ## 2013
 * [David Beazley: **Generators: The Final Frontier**](https://www.youtube.com/watch?v=5-qadlG7tWo)
