@@ -24,6 +24,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * [David Beazley: **Python 3 Metaprogramming**](https://www.youtube.com/watch?v=sPiWg5jSoZI)
 * [Jessica McKellar: **The Future of Python - A Choose Your Own Adventure**](https://www.youtube.com/watch?v=d1a4Jbjc-vU)
 * [Kenneth Reitz: **Python for Humans**](http://www.youtube.com/watch?v=QpkHt1hDYTo)
+* [Ned Batchelder: **Loop like a native: while, for, iterators, generators**](https://www.youtube.com/watch?v=EnSu9hHGq5o)
 * [Raymond Hettinger: **Python's Class Development Toolkit**](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 * [Raymond Hettinger: **Transforming Code into Beautiful, Idiomatic Python**](https://www.youtube.com/watch?v=OSGv2VnC0go)
 
