@@ -26,6 +26,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * [Ned Batchelder: **Loop like a native: while, for, iterators, generators**](https://www.youtube.com/watch?v=EnSu9hHGq5o)
 * [Raymond Hettinger: **Python's Class Development Toolkit**](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 * [Raymond Hettinger: **Transforming Code into Beautiful, Idiomatic Python**](https://www.youtube.com/watch?v=OSGv2VnC0go)
+* [Kiran Jonnalagadda: **The Paradox of Code: Asset vs. Liability**](https://www.youtube.com/watch?v=_stsJlNgGfA&list=PL6GW05BfqWIdsaaV35jcHWPWTI-DAw6Yn)
 
 ## 2014
 * [A. Jesse Jiryu Davis: **What Is Async, How Does It Work, And When Should I Use It? - PyCon 2014**](https://www.youtube.com/watch?v=9WV7juNmyE8)
