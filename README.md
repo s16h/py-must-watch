@@ -28,7 +28,6 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * [Raymond Hettinger: **Transforming Code into Beautiful, Idiomatic Python**](https://www.youtube.com/watch?v=OSGv2VnC0go)
 
 ## 2014
-* [A. Jesse Jiryu Davis: **What Is Async, How Does It Work, And When Should I Use It? - PyCon 2014**](https://www.youtube.com/watch?v=9WV7juNmyE8)
 * [Alex Gaynor: **Fast Python, Slow Python**](https://www.youtube.com/watch?v=7eeEf_rAJds)
 * [Benjamin Peterson: **Garbage Collection in Python**](https://www.youtube.com/watch?v=iHVs_HkjdmI)
 * [Brandon Rhodes: **All Your Ducks In A Row: Data Structures in the Standard Library and Beyond**](https://www.youtube.com/watch?v=fYlnfvKVDoM)
