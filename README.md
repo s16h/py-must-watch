@@ -20,7 +20,6 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * [Raymond Hettinger: **The Art of Subclassing**](https://www.youtube.com/watch?v=miGolgp9xq8)
 
 ## 2013
-* [David Beazley: **Generators: The Final Frontier**](https://www.youtube.com/watch?v=5-qadlG7tWo)
 * [David Beazley: **Python 3 Metaprogramming**](https://www.youtube.com/watch?v=sPiWg5jSoZI)
 * [Jessica McKellar: **The Future of Python - A Choose Your Own Adventure**](https://www.youtube.com/watch?v=d1a4Jbjc-vU)
 * [Kenneth Reitz: **Python for Humans**](http://www.youtube.com/watch?v=QpkHt1hDYTo)
@@ -34,5 +33,6 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * [Benjamin Peterson: **Garbage Collection in Python**](https://www.youtube.com/watch?v=iHVs_HkjdmI)
 * [Brandon Rhodes: **All Your Ducks In A Row: Data Structures in the Standard Library and Beyond**](https://www.youtube.com/watch?v=fYlnfvKVDoM)
 * [Christine Spang: **Subprocess to FFI: Memory, Performance, and Why You Should'nt Shell - PyCon 2014**](https://www.youtube.com/watch?v=YAO7PUZvVPw)
+* [David Beazley: **Generators: The Final Frontier**](https://www.youtube.com/watch?v=5-qadlG7tWo)
 * [Guido van Rossum: **Tulip: Async I/O for Python 3**](https://www.youtube.com/watch?v=1coLC-MUCJc)
 * [Mike Müller: **Faster Python Programs through Optimization**](https://www.youtube.com/watch?v=wNBJDpyRm8w)
