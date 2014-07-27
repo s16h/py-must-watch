@@ -5,7 +5,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 ## 2009
 * David Beazley: **Inside the Python GIL**
     * Video : [youtube](https://www.youtube.com/watch?v=ph374fJqFPE)
-    * [Misc ressources](http://www.dabeaz.com/GIL/)
+    * [Misc resources](http://www.dabeaz.com/GIL/)
 
 ## 2010
 * Brandon Rhodes: **The Mighty Dictionary**
@@ -13,7 +13,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * [Slides](http://rhodesmill.org/brandon/slides/2010-03-pycon/)
 * David Beazley: **Understanding the Python GIL**
     * Video : [youtube](http://www.youtube.com/watch?v=Obt-vMVdM8s)/[pyvideo](http://pyvideo.org/video/353/pycon-2010--understanding-the-python-gil---82)
-    * [Misc ressources](http://www.dabeaz.com/GIL/)
+    * [Misc resources](http://www.dabeaz.com/GIL/)
 
 ## 2011
 * Raymond Hettinger: **API Design: Lessons Learned** (PyCon US)
@@ -43,7 +43,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * David Beazley: **Python 3 Metaprogramming** (PyCon US)
     * [PyCon presentation](https://us.pycon.org/2013/schedule/presentation/7/)
     * Video : [youtube](https://www.youtube.com/watch?v=sPiWg5jSoZI)/[pyvideo](http://pyvideo.org/video/1716/python-3-metaprogramming)
-    * [Misc ressources](http://www.dabeaz.com/py3meta/)
+    * [Misc resources](http://www.dabeaz.com/py3meta/)
 * Jessica McKellar: **The Future of Python - A Choose Your Own Adventure**
     * Video [youtube](https://www.youtube.com/watch?v=d1a4Jbjc-vU)/[pyvideo](http://pyvideo.org/video/2375/the-future-of-python-a-choose-your-own-adventur)
     * [Slides](https://speakerdeck.com/nzpug/jessica-mckellar-the-future-of-python-a-choose-your-own-adventure-keynote)
