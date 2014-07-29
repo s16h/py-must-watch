@@ -95,3 +95,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * Video : [youtube](https://www.youtube.com/watch?v=wNBJDpyRm8w)/[pyvideo](http://pyvideo.org/video/607/faster-python-programs-through-optimization)
     * [Slides](http://fr.slideshare.net/PyData/faster-python-programs-through-optimization-mike-muller)
 
+* A. Jesse Jiryu Davis: **What Is Async, How Does It Work, And When Should I Use It?** (PyCon US)
+   * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/284/)
+   * Video: [youtube](https://www.youtube.com/watch?v=9WV7juNmyE8)/[pyvideo](http://pyvideo.org/video/2565/what-is-async-how-does-it-work-and-when-should)
+   * [Slides](https://speakerdeck.com/pycon2014/what-is-async-how-does-it-work-and-when-should-i-use-it-by-a-jesse-jiryu-davis)
