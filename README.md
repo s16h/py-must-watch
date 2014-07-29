@@ -47,6 +47,9 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * Jessica McKellar: **The Future of Python - A Choose Your Own Adventure**
     * Video [youtube](https://www.youtube.com/watch?v=d1a4Jbjc-vU)/[pyvideo](http://pyvideo.org/video/2375/the-future-of-python-a-choose-your-own-adventur)
     * [Slides](https://speakerdeck.com/nzpug/jessica-mckellar-the-future-of-python-a-choose-your-own-adventure-keynote)
+* Ken Cochrane: **Django and Docker: a Marriage Made in Heaven** (DjangoCon US)
+    * Video: [youtube](https://www.youtube.com/watch?v=_Q9YlJV-wgQ)
+    * [Slides](http://www.slideshare.net/dotCloud/docker-at-djangocon-kencochranedockertalk2013)
 * Kenneth Reitz: **Python for Humans** (PyCon US)
     * Video : [youtube](http://www.youtube.com/watch?v=QpkHt1hDYTo)/[pyvideo](http://pyvideo.org/video/1785/python-for-humans-1)
     * [Slides](https://speakerdeck.com/pyconslides/python-for-humans)
