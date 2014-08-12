@@ -87,6 +87,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * Erik Rose: **Designing Poetic APIs** (PyCon US)
     * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/207/)
     * Video: [youtube](http://www.youtube.com/watch?v=JQYnFyG7A8c)/[pyvideo](http://pyvideo.org/video/2647/designing-poetic-apis)/[vod](http://vod.com.ng/en/video/JQYnFyG7A8c/Erik-Rose-Designing-Poetic-APIs-PyCon-2014)
+    * [Slides](https://speakerdeck.com/pycon2014/designing-poetic-apis-by-erik-ros)
 * Guido van Rossum: **Tulip: Async I/O for Python 3** (PyCon US)
     * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/284/)
     * Video : [youtube](https://www.youtube.com/watch?v=1coLC-MUCJc)
