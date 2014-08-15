@@ -18,7 +18,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 ## 2011
 * Raymond Hettinger: **API Design: Lessons Learned** (PyCon US)
     * [PyCon presentation](https://us.pycon.org/2011/schedule/presentations/263/)
-    * Video : [youtube](http://pyvideo.org/video/366/pycon-2011--api-design--lessons-learned)/[pyvideo](http://pyvideo.org/video/366/pycon-2011--api-design--lessons-learned)
+    * Video : [youtube](http://www.youtube.com/watch?v=heJuQWNdwJI)/[pyvideo](http://pyvideo.org/video/366/pycon-2011--api-design--lessons-learned)
 
 ## 2012
 * Erik Rose: **Parsing Horrible Things with Python** (PyCon US)
