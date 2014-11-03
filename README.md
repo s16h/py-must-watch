@@ -99,3 +99,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/71/)
     * Video : [youtube](https://www.youtube.com/watch?v=wNBJDpyRm8w)/[pyvideo](http://pyvideo.org/video/607/faster-python-programs-through-optimization)
     * [Slides](http://fr.slideshare.net/PyData/faster-python-programs-through-optimization-mike-muller)
+* S Anand: **Faster data processing in Python** (PyCon IN)
+    * [PyCon presentation](http://in.pycon.org/funnel/2014/165-faster-data-processing-in-python)
+    * Video : [youtube](https://www.youtube.com/watch?v=ylBslijJexw)
+    * [iPython Notebook](http://nbviewer.ipython.org/github/sanand0/ipython-notebooks/blob/master/Faster%20Data%20Processing%20in%20Python.ipynb)
