@@ -9,7 +9,8 @@
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=7eeEf_rAJds",
       "pyvideo": "http://pyvideo.org/video/2627/fast-python-slow-python"
-    }
+    },
+    "tags": ["optimization", "performance"]
   },
   {
     "title": "What Is Async, How Does It Work, And When Should I Use It?",
@@ -21,7 +22,8 @@
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=9WV7juNmyE8",
       "pyvideo": "http://pyvideo.org/video/2565/what-is-async-how-does-it-work-and-when-should"
-    }
+    },
+    "tags": ["async"]
   },
   {
     "title": "Garbage Collection in Python",
@@ -33,7 +35,8 @@
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=iHVs_HkjdmI",
       "pyvideo": "http://pyvideo.org/video/2633/garbage-collection-in-python"
-    }
+    },
+    "tags": ["garbage collection"]
   },
   {
     "title": "All Your Ducks In A Row: Data Structures in the Standard Library and Beyond",
@@ -45,7 +48,8 @@
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=fYlnfvKVDoM",
       "pyvideo": "http://pyvideo.org/video/2571/all-your-ducks-in-a-row-data-structures-in-the-s"
-    }
+    },
+    "tags": ["data structures"]
   },
   {
     "title": "Subprocess to FFI: Memory, Performance, and Why You Shouldn't Shell",
@@ -57,7 +61,8 @@
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=YAO7PUZvVPw",
       "pyvideo": "http://pyvideo.org/video/2640/subprocess-to-ffi-memory-performance-and-why-y)"
-    }
+    },
+    "tags": ["performance"]
   },
   {
     "title": "Generators: The Final Frontier",
@@ -69,7 +74,8 @@
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=5-qadlG7tWo",
       "pyvideo": "http://pyvideo.org/video/2575/generators-the-final-frontier"
-    }
+    },
+    "tags": ["generators"]
   },
   {
     "title": "Designing Poetic APIs",
@@ -82,7 +88,8 @@
       "youtube": "http://www.youtube.com/watch?v=JQYnFyG7A8c",
       "pyvideo": "http://pyvideo.org/video/2647/designing-poetic-apis",
       "vod": "http://vod.com.ng/en/video/JQYnFyG7A8c/Erik-Rose-Designing-Poetic-APIs-PyCon-2014"
-    }
+    },
+    "tags": ["apis"]
   },
   {
     "title": "Tulip: Async I/O for Python 3",
@@ -92,7 +99,8 @@
     "presentation": "https://us.pycon.org/2014/schedule/presentation/284/",
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=1coLC-MUCJc"
-    }
+    },
+    "tags": ["async", "tulip"]
   },
   {
     "title": "Faster Python Programs through Optimization",
@@ -104,7 +112,8 @@
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=wNBJDpyRm8w",
       "pyvideo": "http://pyvideo.org/video/607/faster-python-programs-through-optimization"
-    }
+    },
+    "tags": ["optimization", "performance"]
   },
   {
     "title": "Getting Started Testing",
@@ -116,7 +125,8 @@
     "videos": { 
       "youtube": "https://www.youtube.com/watch?v=FxSsnHeWQBY",
       "pyvideo": "http://pyvideo.org/video/2674/getting-started-testing"
-    }
+    },
+    "tags": ["testing"]
   },
   {
     "title": "Faster data processing in Python",
@@ -127,6 +137,7 @@
     "notebook": "http://nbviewer.ipython.org/github/sanand0/ipython-notebooks/blob/master/Faster%20Data%20Processing%20in%20Python.ipynb",
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=ylBslijJexw"
-    }
+    },
+    "tags": ["performance"]
   }
 ]
