@@ -21,6 +21,9 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * Video : [youtube](http://www.youtube.com/watch?v=heJuQWNdwJI)/[pyvideo](http://pyvideo.org/video/366/pycon-2011--api-design--lessons-learned)
 
 ## 2012
+* Brandon Rhodes: **Python Design Patterns 1** (PyCon US)
+    * Video : [youtube](https://www.youtube.com/watch?v=Er5K_nR5lDQ)/[pyvideo](http://pyvideo.org/video/1369/python-design-patterns-1)
+    * [Slides](http://rhodesmill.org/brandon/slides/2012-07-pyohio/)
 * Erik Rose: **Parsing Horrible Things with Python** (PyCon US)
     * [PyCon presentation](https://us.pycon.org/2012/schedule/presentation/468/)
     * Video : [youtube](https://www.youtube.com/watch?v=tCUdeLIj4hE)/[pyvideo](http://pyvideo.org/video/708/parsing-horrible-things-with-python)
