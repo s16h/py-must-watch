@@ -55,7 +55,7 @@
       "pyvideo": "http://pyvideo.org/video/1369/python-design-patterns-1"
     },
     "slides" : "http://rhodesmill.org/brandon/slides/2012-07-pyohio/",
-    "tags": ["design_patterns"]
+    "tags": ["design patterns"]
   },
   {
     "title": "Parsing Horrible Things with Python",
