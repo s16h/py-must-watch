@@ -46,6 +46,18 @@
     "tags": ["api"]
   },
   {
+    "title": "Python Design Patterns 1",
+    "presenter": "Brandon Rhodes",
+    "year": 2012,
+    "venue": "PyOhio",
+    "video": {
+      "youtube": "https://www.youtube.com/watch?v=Er5K_nR5lDQ",
+      "pyvideo": "http://pyvideo.org/video/1369/python-design-patterns-1"
+    },
+    "slides" : "http://rhodesmill.org/brandon/slides/2012-07-pyohio/",
+    "tags": ["design patterns"]
+  },
+  {
     "title": "Parsing Horrible Things with Python",
     "presenter": "Erik Rose",
     "year": 2012,
