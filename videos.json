@@ -65,7 +65,7 @@
     "venue": "PyCon US",
     "presentation": "https://us.pycon.org/2012/schedule/presentation/468/",
     "videos": {
-      "youtube": "https://www.youtube.com/watch?v=tCUdeLIj4hE)/",
+      "youtube": "https://www.youtube.com/watch?v=tCUdeLIj4hE",
       "pyvideo": "http://pyvideo.org/video/708/parsing-horrible-things-with-python"
     },
     "tags": ["parsing"]
