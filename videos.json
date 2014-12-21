@@ -287,7 +287,7 @@
       "pyvideo": "http://pyvideo.org/video/2647/designing-poetic-apis",
       "vod": "http://vod.com.ng/en/video/JQYnFyG7A8c/Erik-Rose-Designing-Poetic-APIs-PyCon-2014"
     },
-    "tags": ["apis"]
+    "tags": ["api"]
   },
   {
     "title": "Tulip: Async I/O for Python 3",
