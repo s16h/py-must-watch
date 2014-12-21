@@ -8,10 +8,10 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * [Misc resources](http://www.dabeaz.com/GIL/)
 
 ## 2010
-* Brandon Rhodes: **The Mighty Dictionary**
+* Brandon Rhodes: **The Mighty Dictionary** (PyCon Atlanta)
     * Video : [youtube](https://www.youtube.com/watch?v=C4Kc8xzcA68)/[pyvideo](http://pyvideo.org/video/276/the-mighty-dictionary-55)
     * [Slides](http://rhodesmill.org/brandon/slides/2010-03-pycon/)
-* David Beazley: **Understanding the Python GIL**
+* David Beazley: **Understanding the Python GIL** (PyCon US)
     * Video : [youtube](http://www.youtube.com/watch?v=Obt-vMVdM8s)/[pyvideo](http://pyvideo.org/video/353/pycon-2010--understanding-the-python-gil---82)
     * [Misc resources](http://www.dabeaz.com/GIL/)
 
