@@ -3,7 +3,7 @@ var pyMustWatchApp = angular.module('pyMustWatchApp', []);
 pyMustWatchApp.controller('VideoListCtrl', function($scope, $http, $sce) {
     $scope.currentVideo = null;
     
-    $http.get('videos.json').success(function (data) {
+    $http.get('/py-must-watch/videos.json').success(function (data) {
         $scope.videos = data;
         if ($scope.videos.length > 0) {
             $scope.currentVideo = $scope.videos[0];
