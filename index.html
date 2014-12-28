@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="pyMustWatchApp">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>py-must-watch - Must-watch videos about Python </title>
+
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="js/controller.js"></script>
+    <script src="js/py-must-watch.js"></script>
+  </head>
+
+  <body ng-controller="VideoListCtrl">
+
+    <div id="video-player-container" class="jumbotron video-player-container">
+      <button type="button" class="jumbotron-close" data-dismiss="jumbotron" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+      <div class="container video-player-container">
+        <div id="player"></div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <div class="row">
+        <div class="col-md-12">
+          <div class="input-group input-group-lg">
+            <span class="input-group-addon">
+              <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+            </span>
+            <input class="form-control" placeholder="Search" type="text" ng-model="query">
+          </div>
+        </div>
+      </div>
+
+      <br />
+      
+      <div class="row">
+
+        <div class="col-md-3 col-sm-6" ng-repeat="video in videos | filter:query">
+          <div class="well well-xxsm well-video-container">
+            <div class="video-container-title">
+              {{video.title}}
+            </div>
+            <div class="video-container-thumbnail">
+              <img src="{{youtubeThumbnail(video.videos.youtube)}}" width="100%" ng-click="selectVideo(video)">
+            </div>
+            <div class="video-container-info">
+              <p class="video-container-presenter">by {{video.presenter}} ({{video.venue}} {{video.year}})</p>
+              <span class="label label-default" ng-repeat-start="tag in video.tags">{{tag}}</span>
+              <span ng-repeat-end></span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div> <!-- /container -->
+
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+      // Asynchronously load the YouTube API
+      var tag = document.createElement('script');
+      tag.src = 'https://www.youtube.com/iframe_api';
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+      
+      // Creates an <iframe> (and YouTube player) after the YouTube API is loaded
+      var player;
+      function onYouTubeIframeAPIReady() {
+        var scope = angular.element($('[ng-controller="VideoListCtrl"]')).scope();
+        var currentVideoId = scope.youtubeIdFromUri(scope.currentVideo.videos.youtube);
+
+        player = new YT.Player('player', {
+          height: calculatePlayerHeight().toString(),
+          width: '100%',
+          videoId: currentVideoId
+        });
+
+        $(window).resize(function() {
+          var newPlayerHeight = calculatePlayerHeight();
+          player.setSize('100%', newPlayerHeight);
+        });
+      }
+
+      function calculatePlayerHeight() {
+        var playerWidth = $('.container.video-player-container').width();
+        var playerHeight = playerWidth * 9.0 / 16.0;
+        return playerHeight;
+      }
+    </script>
+
+    <script type="text/javascript">
+      var playerContainer;
+      $(document).ready(function() {
+        var jumbotron = $('.video-player-container');
+        playerContainer = new Jumbotron(jumbotron);
+      });
+    </script>
+  </body>
+</html>

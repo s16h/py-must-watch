@@ -1,0 +1,341 @@
+[
+  {
+    "title": "Inside the Python GIL",
+    "presenter": "David Beazley",
+    "year": 2009,
+    "venue": "Webcast",
+    "slides": "http://www.dabeaz.com/GIL/",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=ph374fJqFPE"
+    },
+    "tags": ["gil", "optimization", "performance"]
+  },
+  {
+    "title": "The Mighty Dictionary",
+    "presenter": "Brandon Rhodes",
+    "venue": "PyCon Atlanta",
+    "year": 2010,
+    "slides": "http://rhodesmill.org/brandon/slides/2010-03-pycon/",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=C4Kc8xzcA68",
+      "pyvideo": "http://pyvideo.org/video/276/the-mighty-dictionary-55"
+    },
+    "tags": ["data structures", "dictionary"]
+  },
+  {
+    "title": "Understanding the Python GIL",
+    "presenter": "David Beazley",
+    "year": 2010,
+    "venue": "PyCon US",
+    "slides": "http://www.dabeaz.com/GIL/",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=ph374fJqFPE",
+      "pyvideo": "http://pyvideo.org/video/353/pycon-2010--understanding-the-python-gil---82"
+    },
+    "tags": ["gil", "optimization", "performance"]
+  },
+  {
+    "title": "API Design: Lessons Learned",
+    "presenter": "Raymond Hettinger",
+    "year": 2011,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2011/schedule/presentations/263/",
+    "videos": {
+      "youtube": "http://www.youtube.com/watch?v=heJuQWNdwJI",
+      "pyvideo": "http://pyvideo.org/video/366/pycon-2011--api-design--lessons-learned"
+    },
+    "tags": ["api"]
+  },
+  {
+    "title": "Python Design Patterns 1",
+    "presenter": "Brandon Rhodes",
+    "year": 2012,
+    "venue": "PyOhio",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=Er5K_nR5lDQ",
+      "pyvideo": "http://pyvideo.org/video/1369/python-design-patterns-1"
+    },
+    "slides" : "http://rhodesmill.org/brandon/slides/2012-07-pyohio/",
+    "tags": ["design patterns"]
+  },
+  {
+    "title": "Parsing Horrible Things with Python",
+    "presenter": "Erik Rose",
+    "year": 2012,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2012/schedule/presentation/468/",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=tCUdeLIj4hE",
+      "pyvideo": "http://pyvideo.org/video/708/parsing-horrible-things-with-python"
+    },
+    "tags": ["parsing"]
+  },
+  {
+    "title": "Stop Writing Classes",
+    "presenter": "Jack Diederich",
+    "year": 2012,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2012/schedule/presentation/352/",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=o9pEzgHorH0",
+      "pyvideo":"http://pyvideo.org/video/880/stop-writing-classes"
+    },
+    "tags": ["classes"]
+  },
+  {
+    "title": "Pragmatic Unicode or How do I stop the pain?",
+    "presenter": "Ned Batchelder",
+    "year": 2012,
+    "venue": "PyCon US",
+    "slides": "http://nedbatchelder.com/text/unipain/unipain.html",
+    "presentation": "https://us.pycon.org/2012/schedule/presentation/141/",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=sgHbC6udIqc",
+      "pyvideo": "http://pyvideo.org/video/948/pragmatic-unicode-or-how-do-i-stop-the-pain"
+    },
+    "tags": ["unicode"]
+  },
+  {
+    "title": "Discovering Descriptors",
+    "presenter": "Peter Inglesby",
+    "year": 2012,
+    "venue": "EuroPython",
+    "presentation": "https://ep2013.europython.eu/conference/talks/discovering-descriptors",
+    "code": "https://github.com/inglesp/Discovering-Descriptors",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=D3-NZXHO5QI"
+    },
+    "tags": ["descriptors"]
+  },
+  {
+    "title": "The Art of Subclassing",
+    "presenter": "Raymond Hettinger",
+    "year": 2012,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2012/schedule/presentation/399/",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=miGolgp9xq8",
+      "pyvideo": "http://pyvideo.org/video/879/the-art-of-subclassing"
+    },
+    "tags": ["classes", "subclassing"]
+  },
+  {
+    "title": "Python 3 Metaprogramming",
+    "presenter": "David Beazley",
+    "year": 2013,
+    "venue": "PyCon US",
+    "slides": "http://www.dabeaz.com/py3meta/Py3Meta.pdf",
+    "presentation": "https://us.pycon.org/2013/schedule/presentation/7/",
+    "code": "www.dabeaz.com/py3meta/py3meta.zip",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=sPiWg5jSoZI",
+      "pyvideo": "http://pyvideo.org/video/1716/python-3-metaprogramming"
+    },
+    "tags": ["python 3", "metaprogramming"]
+  },
+  {
+    "title": "The Future of Python - A Choose Your Own Adventure",
+    "presenter": "Jessica McKellar",
+    "year": 2013,
+    "venue": "Kiwi Pycon",
+    "slides": "https://speakerdeck.com/nzpug/jessica-mckellar-the-future-of-python-a-choose-your-own-adventure-keynote",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=d1a4Jbjc-vU",
+      "pyvideo": "http://pyvideo.org/video/2375/the-future-of-python-a-choose-your-own-adventur"
+    },
+    "tags": ["future", "python 3"]
+  },
+  {
+    "title": "Python for Humans",
+    "presenter": "Kenneth Reitz",
+    "year": 2013,
+    "venue": "PyCon US",
+    "slides": "https://speakerdeck.com/pyconslides/python-for-humans",
+    "code": "https://github.com/kennethreitz/python-for-humans",
+    "videos": {
+      "youtube": "http://www.youtube.com/watch?v=QpkHt1hDYTo",
+      "pyvideo": "http://pyvideo.org/video/1785/python-for-humans-1"
+    },
+    "tags": ["api", "best practice"]
+  },
+  {
+    "title": "Loop like a native: while, for, iterators, generators",
+    "presenter": "Ned Batchelder",
+    "year": 2013,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2013/schedule/presentation/76/",
+    "slides": "http://nedbatchelder.com/text/iter/iter.html",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=EnSu9hHGq5o",
+      "pyvideo": "http://pyvideo.org/video/1758/loop-like-a-native-while-for-iterators-genera"
+    },
+    "tags": ["loops", "iterators", "generators"]
+  },
+  {
+    "title": "Python's Class Development Toolkit",
+    "presenter": "Raymond Hettinger",
+    "year": 2013,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2013/schedule/presentation/125/",
+    "slides": "https://speakerdeck.com/pyconslides/pythons-class-development-toolkit-by-raymond-hettinger",
+    "videos" : {
+      "youtube": "https://www.youtube.com/watch?v=HTLu2DFOdTg",
+      "pyvideo": "http://pyvideo.org/video/1779/pythons-class-development-toolkit"
+    },
+    "tags": ["classes"]
+  },
+  {
+    "title": "Transforming Code into Beautiful, Idiomatic Python",
+    "presenter": "Raymond Hettinger",
+    "year": 2013,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2013/schedule/presentation/126/",
+    "slides": "https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=OSGv2VnC0go",
+      "pyvideo": "http://pyvideo.org/video/1780/transforming-code-into-beautiful-idiomatic-python"
+    },
+    "tags": ["idiomatic"]
+  },
+  {
+    "title": "Fast Python, Slow Python",
+    "presenter": "Alex Gaynor",
+    "year": 2014,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2014/schedule/presentation/197/",
+    "slides": "https://speakerdeck.com/pycon2014/fast-python-slow-python-by-alex-gaynor",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=7eeEf_rAJds",
+      "pyvideo": "http://pyvideo.org/video/2627/fast-python-slow-python"
+    },
+    "tags": ["optimization", "performance"]
+  },
+  {
+    "title": "What Is Async, How Does It Work, And When Should I Use It?",
+    "presenter": "A. Jesse Jiryu Davis",
+    "year": 2014,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2014/schedule/presentation/284/",
+    "slides": "https://speakerdeck.com/pycon2014/what-is-async-how-does-it-work-and-when-should-i-use-it-by-a-jesse-jiryu-davis",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=9WV7juNmyE8",
+      "pyvideo": "http://pyvideo.org/video/2565/what-is-async-how-does-it-work-and-when-should"
+    },
+    "tags": ["async"]
+  },
+  {
+    "title": "Garbage Collection in Python",
+    "presenter": "Benjamin Peterson",
+    "year": 2014,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2014/schedule/presentation/153/",
+    "slides": "https://speakerdeck.com/pycon2014/garbage-collection-in-python-by-benjamin-peterson",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=iHVs_HkjdmI",
+      "pyvideo": "http://pyvideo.org/video/2633/garbage-collection-in-python"
+    },
+    "tags": ["garbage collection"]
+  },
+  {
+    "title": "All Your Ducks In A Row: Data Structures in the Standard Library and Beyond",
+    "presenter": "Brandon Rhodes",
+    "year": 2014,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2014/schedule/presentation/211/",
+    "slides": "http://rhodesmill.org/brandon/slides/2014-04-pycon/data-structures/",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=fYlnfvKVDoM",
+      "pyvideo": "http://pyvideo.org/video/2571/all-your-ducks-in-a-row-data-structures-in-the-s"
+    },
+    "tags": ["data structures"]
+  },
+  {
+    "title": "Subprocess to FFI: Memory, Performance, and Why You Shouldn't Shell",
+    "presenter": "Christine Spang",
+    "year": 2014,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2014/schedule/presentation/190/",
+    "slides": "https://speakerdeck.com/pycon2014/subprocess-to-ffi-by-christine-spang",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=YAO7PUZvVPw",
+      "pyvideo": "http://pyvideo.org/video/2640/subprocess-to-ffi-memory-performance-and-why-y)"
+    },
+    "tags": ["performance"]
+  },
+  {
+    "title": "Generators: The Final Frontier",
+    "presenter": "David Beazley",
+    "year": 2014,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2014/schedule/presentation/70/",
+    "slides": "http://fr.slideshare.net/dabeaz/generators-the-final-frontier",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=5-qadlG7tWo",
+      "pyvideo": "http://pyvideo.org/video/2575/generators-the-final-frontier"
+    },
+    "tags": ["generators"]
+  },
+  {
+    "title": "Designing Poetic APIs",
+    "presenter": "Erik Rose",
+    "year": 2014,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2014/schedule/presentation/207/",
+    "slides": "https://speakerdeck.com/pycon2014/designing-poetic-apis-by-erik-ros",
+    "videos": {
+      "youtube": "http://www.youtube.com/watch?v=JQYnFyG7A8c",
+      "pyvideo": "http://pyvideo.org/video/2647/designing-poetic-apis",
+      "vod": "http://vod.com.ng/en/video/JQYnFyG7A8c/Erik-Rose-Designing-Poetic-APIs-PyCon-2014"
+    },
+    "tags": ["api"]
+  },
+  {
+    "title": "Tulip: Async I/O for Python 3",
+    "presenter": "Guido van Rossum",
+    "year": 2014,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2014/schedule/presentation/284/",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=1coLC-MUCJc"
+    },
+    "tags": ["async", "tulip"]
+  },
+  {
+    "title": "Faster Python Programs through Optimization",
+    "presenter": "Mike Müller",
+    "year": 2014,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2014/schedule/presentation/71/",
+    "slides": "http://fr.slideshare.net/PyData/faster-python-programs-through-optimization-mike-muller",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=wNBJDpyRm8w",
+      "pyvideo": "http://pyvideo.org/video/607/faster-python-programs-through-optimization"
+    },
+    "tags": ["optimization", "performance"]
+  },
+  {
+    "title": "Getting Started Testing",
+    "presenter": "Ned Batchelder",
+    "year": 2014,
+    "venue": "PyCon US", 
+    "presentation": "https://us.pycon.org/2014/schedule/presentation/150/",
+    "slides": "https://speakerdeck.com/pycon2014/getting-started-testing-by-ned-batchelder",
+    "videos": { 
+      "youtube": "https://www.youtube.com/watch?v=FxSsnHeWQBY",
+      "pyvideo": "http://pyvideo.org/video/2674/getting-started-testing"
+    },
+    "tags": ["testing"]
+  },
+  {
+    "title": "Faster data processing in Python",
+    "presenter": "S Anand",
+    "year": 2014,
+    "venue": "PyCon IN",
+    "presentation": "http://in.pycon.org/funnel/2014/165-faster-data-processing-in-python",
+    "notebook": "http://nbviewer.ipython.org/github/sanand0/ipython-notebooks/blob/master/Faster%20Data%20Processing%20in%20Python.ipynb",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=ylBslijJexw"
+    },
+    "tags": ["performance"]
+  }
+]
