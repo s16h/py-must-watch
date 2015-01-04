@@ -1,0 +1,77 @@
+body {
+  background-color: #f1f1f1;
+}
+
+.well-xxsm {
+  padding: 0;
+}
+
+.well-video-container {
+  background-color: #fefefe;
+  border: 0;
+  -webkit-box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.10);
+      box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.10);
+}
+
+.video-container-title {
+  padding: 15px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+.video-container-thumbnail {
+  filter: alpha(opacity=50);
+  opacity: 0.5;
+  -webkit-transition: opacity .2s ease-in-out;
+     -moz-transition: opacity .2s ease-in-out;
+          transition: opacity .2s ease-in-out;
+}
+
+.video-container-thumbnail:hover {
+  filter: alpha(opacity=100);
+  opacity: 1;
+  cursor: pointer;
+}
+
+.video-container-info {
+  padding: 15px;
+  text-align: center;
+  font-size: 1.0em;
+}
+
+.video-container-presenter {
+  font-size: 0.8em;
+}
+
+.video-player-container {
+  background-color: #424242;
+  padding: 20px 10px;
+}
+
+.jumbotron-close {
+  float: right;
+  font-size: 40px;
+  line-height: 1;
+  color: #fefefe;
+  filter: alpha(opacity=20);
+  opacity: .2;
+}
+
+.jumbotron-close:hover,
+.jumbotron-close:focus {
+  color: #fefefe;
+  text-decoration: none;
+  cursor: pointer;
+  filter: alpha(opacity=100);
+  opacity: 1;
+}
+
+button.jumbotron-close {
+  -webkit-appearance: none;
+  margin: -10px 15px 0 0;
+  padding: 0;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+}
