@@ -41,6 +41,10 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * Raymond Hettinger: **The Art of Subclassing** (PyCon US)
     * [PyCon presentation](https://us.pycon.org/2012/schedule/presentation/399/)
     * Video : [youtube](https://www.youtube.com/watch?v=miGolgp9xq8)/[pyvideo](http://pyvideo.org/video/879/the-art-of-subclassing)
+* David Schachter: **How to Speed up a Python Program 114,000 times** (SF Python Usergroup)
+    * [Presentation](https://us.pycon.org/2012/schedule/presentation/399/)
+    * [Slides](http://davidschachter.com/ds/SF_Python_Meetup_slides_public.pdf)
+    * Video: [youtube](https://www.youtube.com/watch?v=e08kOj2kISU)
 
 ## 2013
 * David Beazley: **Python 3 Metaprogramming** (PyCon US)

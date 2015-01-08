@@ -120,6 +120,18 @@
     "tags": ["classes", "subclassing"]
   },
   {
+    "title": "How to Speed up a Python Program 114,000 times",
+    "presenter": "David Schachter",
+    "year": 2012,
+    "venue": "SF Python Usergroup",
+    "slides": "http://davidschachter.com/ds/SF_Python_Meetup_slides_public.pdf",
+    "presentation": "http://www.meetup.com/sfpython/events/89669532/",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=e08kOj2kISU",
+    },
+    "tags": ["optimization", "performance"]
+  },  
+  {
     "title": "Python 3 Metaprogramming",
     "presenter": "David Beazley",
     "year": 2013,
