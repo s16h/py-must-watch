@@ -262,6 +262,18 @@
     "tags": ["data structures"]
   },
   {
+    "title": "The Clean Architecture",
+    "presenter": "Brandon Rhodes",
+    "year": 2014,
+    "venue": "PyOhio",
+    "slides": "http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=DJtef410XaM",
+      "pyvideo": "http://pyvideo.org/video/2840/the-clean-architecture-in-python"
+    },
+    "tags": ["clean coding", "clean architecture"]
+  },
+  {
     "title": "Subprocess to FFI: Memory, Performance, and Why You Shouldn't Shell",
     "presenter": "Christine Spang",
     "year": 2014,
