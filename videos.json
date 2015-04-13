@@ -361,5 +361,15 @@
       "youtube": "https://www.youtube.com/watch?v=ylBslijJexw"
     },
     "tags": ["performance"]
+  },
+  {
+    "title": "Beyond PEP 8 -- Best practices for beautiful intelligible code",
+    "presenter": "Raymond Hettinger",
+    "year": 2015,
+    "venue": "PyCon US",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=wf-BqAjZb8M"
+    },
+    "tags": ["idiomatic"]
   }
 ]
