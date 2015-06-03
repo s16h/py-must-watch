@@ -371,5 +371,15 @@
       "youtube": "https://www.youtube.com/watch?v=wf-BqAjZb8M"
     },
     "tags": ["idiomatic"]
+  },
+  {
+    "title": "Python Concurrency From the Ground Up - Live",
+    "presenter": "David Beazley",
+    "year": 2015,
+    "venue": "PyCon US",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=MCs5OvhV9S4"
+    },
+    "tags": ["async", "asyncio"]
   }
 ]
