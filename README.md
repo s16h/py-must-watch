@@ -117,6 +117,18 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * [PyCon presentation](http://in.pycon.org/funnel/2014/165-faster-data-processing-in-python)
     * Video: [youtube](https://www.youtube.com/watch?v=ylBslijJexw)
     * [iPython Notebook](http://nbviewer.ipython.org/github/sanand0/ipython-notebooks/blob/master/Faster%20Data%20Processing%20in%20Python.ipynb)
+* Philip Guo: **CPython internals: A ten-hour codewalk through the Python interpreter source code** (University of Rochester)
+    * Videos: 
+        *[youtube(1/9)](https://www.youtube.com/watch?v=LhadeL7_EIU)
+        *[youtube(2/9)](https://www.youtube.com/watch?v=YJxmyD_aEnQ)
+        *[youtube(3/9)](https://www.youtube.com/watch?v=dJD9mLPCkuc)
+        *[youtube(4/9)](https://www.youtube.com/watch?v=naZTXNBbcLc)
+        *[youtube(5/9)](https://www.youtube.com/watch?v=ngkl95AMl5M)
+        *[youtube(6/9)](https://www.youtube.com/watch?v=ix6MTSemdUU)
+        *[youtube(7/9)](https://www.youtube.com/watch?v=8-KfIsDbxVY)
+        *[youtube(8/9)](https://www.youtube.com/watch?v=Wbu2wMCcTKo)
+        *[youtube(9/9)](https://www.youtube.com/watch?v=wwjqMIlOuOo)
+    
 
 ## 2015
 * Raymond Hettinger: **Beyond PEP 8 -- Best practices for beautiful intelligible code** (PyCon US)
