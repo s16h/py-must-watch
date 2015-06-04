@@ -366,7 +366,7 @@
     "title": "Beyond PEP 8 -- Best practices for beautiful intelligible code",
     "presenter": "Raymond Hettinger",
     "year": 2015,
-    "venue": "PyCon US",
+    "venue": "PyCon Montreal",
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=wf-BqAjZb8M"
     },
@@ -376,10 +376,20 @@
     "title": "Python Concurrency From the Ground Up - Live",
     "presenter": "David Beazley",
     "year": 2015,
-    "venue": "PyCon US",
+    "venue": "PyCon Montreal",
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=MCs5OvhV9S4"
     },
     "tags": ["async", "asyncio"]
-  }
+  },
+  {
+    "title": "Type Hints",
+    "presenter": "Guido van Rossum",
+    "year": 2015,
+    "venue": "PyCon Montreal",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=2wDvzy6Hgxg"
+    },
+    "tags": ["type", "python3"]
+  }  
 ]
