@@ -373,6 +373,16 @@
     "tags": ["idiomatic"]
   },
   {
+    "title": "Super considered super!",
+    "presenter": "Raymond Hettinger",
+    "year": 2015,
+    "venue": "PyCon Montreal",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=EiOglTERPEo"
+    },
+    "tags": ["idiomatic"]
+  },
+  {
     "title": "Python Concurrency From the Ground Up - Live",
     "presenter": "David Beazley",
     "year": 2015,
