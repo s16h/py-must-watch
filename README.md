@@ -124,3 +124,6 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 
 * David Beazley: **Python Concurrency From the Ground Up: LIVE!** (PyCon US)
     * Video: [youtube](https://www.youtube.com/watch?v=MCs5OvhV9S4)
+
+* Jacob Kaplan-Moss: **Keynote** (PyCon US)
+    * Video: [youtube](https://www.youtube.com/watch?v=hIJdFxYlEKE)
