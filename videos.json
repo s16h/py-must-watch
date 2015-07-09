@@ -392,5 +392,18 @@
       "youtube": "https://www.youtube.com/watch?v=2wDvzy6Hgxg"
     },
     "tags": ["type", "python3"]
-  }  
+  },
+  {
+    "title": "Facts and Myths about Python names and values",
+    "presenter": "Ned Batchelder",
+    "year": 2015,
+    "venue": "PyCon Montreal",
+    "presentation": "https://us.pycon.org/2015/schedule/presentation/362/",
+    "slides": "http://nedbatchelder.com/text/names1.html",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=_AEJHKGk9ns",
+      "pyvideo": "http://pyvideo.org/video/3466/facts-and-myths-about-python-names-and-values",
+    },
+    "tags": ["novice", "core"],
+  }
 ]
