@@ -130,7 +130,7 @@
       "youtube": "https://www.youtube.com/watch?v=e08kOj2kISU"
     },
     "tags": ["optimization", "performance"]
-  },  
+  },
   {
     "title": "Python 3 Metaprogramming",
     "presenter": "David Beazley",
@@ -341,10 +341,10 @@
     "title": "Getting Started Testing",
     "presenter": "Ned Batchelder",
     "year": 2014,
-    "venue": "PyCon US", 
+    "venue": "PyCon US",
     "presentation": "https://us.pycon.org/2014/schedule/presentation/150/",
     "slides": "https://speakerdeck.com/pycon2014/getting-started-testing-by-ned-batchelder",
-    "videos": { 
+    "videos": {
       "youtube": "https://www.youtube.com/watch?v=FxSsnHeWQBY",
       "pyvideo": "http://pyvideo.org/video/2674/getting-started-testing"
     },
