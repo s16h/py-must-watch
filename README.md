@@ -120,6 +120,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 
 ## 2015
 * Raymond Hettinger: **Beyond PEP 8 -- Best practices for beautiful intelligible code** (PyCon US)
+    * [PyCon presentation](https://us.pycon.org/2015/schedule/presentation/416/)
     * Video: [youtube](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 
 * David Beazley: **Python Concurrency From the Ground Up: LIVE!** (PyCon US)
