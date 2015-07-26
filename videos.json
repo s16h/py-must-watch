@@ -29,7 +29,7 @@
     "venue": "PyCon US",
     "slides": "http://www.dabeaz.com/GIL/",
     "videos": {
-      "youtube": "https://www.youtube.com/watch?v=ph374fJqFPE",
+      "youtube": "http://www.youtube.com/watch?v=Obt-vMVdM8s",
       "pyvideo": "http://pyvideo.org/video/353/pycon-2010--understanding-the-python-gil---82"
     },
     "tags": ["gil", "optimization", "performance"]
@@ -83,7 +83,7 @@
     "tags": ["classes"]
   },
   {
-    "title": "Pragmatic Unicode or How do I stop the pain?",
+    "title": "Pragmatic Unicode, or, How do I stop the pain?",
     "presenter": "Ned Batchelder",
     "year": 2012,
     "venue": "PyCon US",
@@ -282,7 +282,7 @@
     "slides": "https://speakerdeck.com/pycon2014/subprocess-to-ffi-by-christine-spang",
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=YAO7PUZvVPw",
-      "pyvideo": "http://pyvideo.org/video/2640/subprocess-to-ffi-memory-performance-and-why-y)"
+      "pyvideo": "http://pyvideo.org/video/2640/subprocess-to-ffi-memory-performance-and-why-y"
     },
     "tags": ["performance"]
   },
@@ -305,7 +305,7 @@
     "year": 2014,
     "venue": "PyCon US",
     "presentation": "https://us.pycon.org/2014/schedule/presentation/207/",
-    "slides": "https://speakerdeck.com/pycon2014/designing-poetic-apis-by-erik-ros",
+    "slides": "https://speakerdeck.com/pycon2014/designing-poetic-apis-by-erik-rose",
     "videos": {
       "youtube": "http://www.youtube.com/watch?v=JQYnFyG7A8c",
       "pyvideo": "http://pyvideo.org/video/2647/designing-poetic-apis",
@@ -356,7 +356,7 @@
     "year": 2014,
     "venue": "PyCon IN",
     "presentation": "http://in.pycon.org/funnel/2014/165-faster-data-processing-in-python",
-    "notebook": "http://nbviewer.ipython.org/github/sanand0/ipython-notebooks/blob/master/Faster%20Data%20Processing%20in%20Python.ipynb",
+    "code": "http://nbviewer.ipython.org/github/sanand0/ipython-notebooks/blob/master/Faster%20Data%20Processing%20in%20Python.ipynb",
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=ylBslijJexw"
     },
@@ -402,8 +402,8 @@
     "slides": "http://nedbatchelder.com/text/names1.html",
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=_AEJHKGk9ns",
-      "pyvideo": "http://pyvideo.org/video/3466/facts-and-myths-about-python-names-and-values",
+      "pyvideo": "http://pyvideo.org/video/3466/facts-and-myths-about-python-names-and-values"
     },
-    "tags": ["novice", "core"],
+    "tags": ["novice", "core"]
   }
 ]
