@@ -376,6 +376,8 @@
     "title": "Super considered super!",
     "presenter": "Raymond Hettinger",
     "year": 2015,
+    "presentation": "https://us.pycon.org/2015/schedule/presentation/419/",
+    "article": "https://rhettinger.wordpress.com/2011/05/26/super-considered-super/",
     "venue": "PyCon Montreal",
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=EiOglTERPEo"
