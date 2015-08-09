@@ -122,6 +122,10 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * Raymond Hettinger: **Beyond PEP 8 -- Best practices for beautiful intelligible code** (PyCon US)
     * [PyCon presentation](https://us.pycon.org/2015/schedule/presentation/416/)
     * Video: [youtube](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+* Kyle Kastner: **Machine Learning 101** (PyCon Montréal)
+    * Video: [youtube](https://www.youtube.com/watch?v=r-1XJBHot58)
+* Mali Akmanalp: **Other people's messy data (and how not to hate it!)** (PyCon Montréal)
+    * Video: [youtube](https://www.youtube.com/watch?v=_eQ_8U5kruQ)
 
 * David Beazley: **Python Concurrency From the Ground Up: LIVE!** (PyCon US)
     * Video: [youtube](https://www.youtube.com/watch?v=MCs5OvhV9S4)
