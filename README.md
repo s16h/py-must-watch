@@ -125,7 +125,8 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 
 * David Beazley: **Python Concurrency From the Ground Up: LIVE!** (PyCon US)
     * Video: [youtube](https://www.youtube.com/watch?v=MCs5OvhV9S4)
-
+* Raymond Hettinger: **Super considered super!** (PyCon US)
+    * Video: [youtube](https://www.youtube.com/watch?v=EiOglTERPEo)
 * Ned Batchelder: **Facts and Myths about Python names and values** (PyCon US)
     * [PyCon presentation](https://us.pycon.org/2015/schedule/presentation/362/)
     * Video: [youtube](https://www.youtube.com/watch?v=_AEJHKGk9ns)/[pyvideo](http://pyvideo.org/video/3466/facts-and-myths-about-python-names-and-values)
