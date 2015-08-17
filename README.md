@@ -133,3 +133,4 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * [Slides and new article](http://nedbatchelder.com/text/names1.html)/[Original article](http://nedbatchelder.com/text/names.html)
 * Alex Martelli: **Python Design Patterns** (Google Developers Day US)
     * Video: [youtube](https://www.youtube.com/watch?v=0vJJlVBVTFg)
+    * [Slides](http://www.aleax.it/gdd_pydp.pdf)
