@@ -417,5 +417,16 @@
       "pyvideo": "http://pyvideo.org/video/3466/facts-and-myths-about-python-names-and-values",
     },
     "tags": ["novice", "core"],
+  },
+  {
+    "title": "Python Design Patterns",
+    "presenter": "Alex Martelli",
+    "year": 2015,
+    "venue": "Google Developers Day US",
+    "slides": "http://www.aleax.it/gdd_pydp.pdf",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=0vJJlVBVTFg",
+    },
+    "tags": ["core", "design patterns"],
   }
 ]
