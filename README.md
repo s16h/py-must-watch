@@ -131,3 +131,6 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * [PyCon presentation](https://us.pycon.org/2015/schedule/presentation/362/)
     * Video: [youtube](https://www.youtube.com/watch?v=_AEJHKGk9ns) [00:25:20]/[pyvideo](http://pyvideo.org/video/3466/facts-and-myths-about-python-names-and-values)
     * [Slides and new article](http://nedbatchelder.com/text/names1.html)/[Original article](http://nedbatchelder.com/text/names.html)
+* Alex Martelli: **Python Design Patterns** (Google Developers Day US)
+    * Video: [youtube](https://www.youtube.com/watch?v=0vJJlVBVTFg)
+    * [Slides](http://www.aleax.it/gdd_pydp.pdf)
