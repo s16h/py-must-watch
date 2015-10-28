@@ -414,8 +414,8 @@
     "slides": "http://nedbatchelder.com/text/names1.html",
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=_AEJHKGk9ns",
-      "pyvideo": "http://pyvideo.org/video/3466/facts-and-myths-about-python-names-and-values",
+      "pyvideo": "http://pyvideo.org/video/3466/facts-and-myths-about-python-names-and-values"
     },
-    "tags": ["novice", "core"],
+    "tags": ["novice", "core"]
   }
 ]
