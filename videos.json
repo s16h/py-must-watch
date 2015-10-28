@@ -130,7 +130,7 @@
       "youtube": "https://www.youtube.com/watch?v=e08kOj2kISU"
     },
     "tags": ["optimization", "performance"]
-  },
+  },  
   {
     "title": "Python 3 Metaprogramming",
     "presenter": "David Beazley",
@@ -341,10 +341,10 @@
     "title": "Getting Started Testing",
     "presenter": "Ned Batchelder",
     "year": 2014,
-    "venue": "PyCon US",
+    "venue": "PyCon US", 
     "presentation": "https://us.pycon.org/2014/schedule/presentation/150/",
     "slides": "https://speakerdeck.com/pycon2014/getting-started-testing-by-ned-batchelder",
-    "videos": {
+    "videos": { 
       "youtube": "https://www.youtube.com/watch?v=FxSsnHeWQBY",
       "pyvideo": "http://pyvideo.org/video/2674/getting-started-testing"
     },
@@ -366,56 +366,10 @@
     "title": "Beyond PEP 8 -- Best practices for beautiful intelligible code",
     "presenter": "Raymond Hettinger",
     "year": 2015,
-    "venue": "PyCon Montreal",
-    "presentation": "https://us.pycon.org/2015/schedule/presentation/416/",
+    "venue": "PyCon US",
     "videos": {
       "youtube": "https://www.youtube.com/watch?v=wf-BqAjZb8M"
     },
     "tags": ["idiomatic"]
-  },
-  {
-    "title": "Super considered super!",
-    "presenter": "Raymond Hettinger",
-    "year": 2015,
-    "presentation": "https://us.pycon.org/2015/schedule/presentation/419/",
-    "article": "https://rhettinger.wordpress.com/2011/05/26/super-considered-super/",
-    "venue": "PyCon Montreal",
-    "videos": {
-      "youtube": "https://www.youtube.com/watch?v=EiOglTERPEo"
-    },
-    "tags": ["idiomatic"]
-  },
-  {
-    "title": "Python Concurrency From the Ground Up - Live",
-    "presenter": "David Beazley",
-    "year": 2015,
-    "venue": "PyCon Montreal",
-    "videos": {
-      "youtube": "https://www.youtube.com/watch?v=MCs5OvhV9S4"
-    },
-    "tags": ["async", "asyncio"]
-  },
-  {
-    "title": "Type Hints",
-    "presenter": "Guido van Rossum",
-    "year": 2015,
-    "venue": "PyCon Montreal",
-    "videos": {
-      "youtube": "https://www.youtube.com/watch?v=2wDvzy6Hgxg"
-    },
-    "tags": ["type", "python3"]
-  },
-  {
-    "title": "Facts and Myths about Python names and values",
-    "presenter": "Ned Batchelder",
-    "year": 2015,
-    "venue": "PyCon Montreal",
-    "presentation": "https://us.pycon.org/2015/schedule/presentation/362/",
-    "slides": "http://nedbatchelder.com/text/names1.html",
-    "videos": {
-      "youtube": "https://www.youtube.com/watch?v=_AEJHKGk9ns",
-      "pyvideo": "http://pyvideo.org/video/3466/facts-and-myths-about-python-names-and-values",
-    },
-    "tags": ["novice", "core"],
   }
 ]

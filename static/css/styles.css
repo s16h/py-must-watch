@@ -75,15 +75,3 @@ button.jumbotron-close {
   background: transparent;
   border: 0;
 }
-
-@media screen and (min-width: 768px) and (max-width: 992px) {
-  .video-col:nth-child(2n + 1) {
-    clear: both;
-  }
-}
-
-@media screen and (min-width: 992px) {
-  .video-col:nth-child(4n + 1) {
-    clear: both;
-  }
-}
