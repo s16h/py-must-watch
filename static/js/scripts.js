@@ -33,6 +33,6 @@ function calculatePlayerHeight(aspectRatio) {
 $(window).resize(function() {
     var newPlayerHeight = calculatePlayerHeight();
     if (player) {
-        player.setSize('100%', newPlayerHeight);    
+        player.setSize('100%', newPlayerHeight);
     }
 });
