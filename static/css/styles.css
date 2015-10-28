@@ -6,6 +6,10 @@ body {
   padding: 0;
 }
 
+.video-col:nth-child(4n + 1) {
+  clear: both;
+}
+
 .well-video-container {
   background-color: #fefefe;
   border: 0;
