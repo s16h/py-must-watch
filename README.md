@@ -125,6 +125,8 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 
 * David Beazley: **Python Concurrency From the Ground Up: LIVE!** (PyCon US)
     * Video: [youtube](https://www.youtube.com/watch?v=MCs5OvhV9S4) [00:46:50]
+* David Beazley: **Modules and Packages: Live and Let Die!** (PyCon US)
+    * Video: [youtube](https://www.youtube.com/watch?v=0oTh1CXRaQ0) [03:02:33]
 * Raymond Hettinger: **Super considered super!** (PyCon US)
     * Video: [youtube](https://www.youtube.com/watch?v=EiOglTERPEo) [00:46:52]
 * Ned Batchelder: **Facts and Myths about Python names and values** (PyCon US)
