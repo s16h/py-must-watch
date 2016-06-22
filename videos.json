@@ -1,5 +1,16 @@
 [
   {
+    "title": "Python Design Patterns",
+    "presenter": "Alex Martelli",
+    "year": 2007,
+    "venue": "Google Developers Day US",
+    "slides": "http://www.aleax.it/gdd_pydp.pdf",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=0vJJlVBVTFg"
+    },
+    "tags": ["design patterns"]
+  },
+  {
     "title": "Advanced Python (or understanding Python)",
     "presenter": "Thomas Wouters",
     "year": 2007,
