@@ -3,7 +3,11 @@ Must-watch videos about Python
 Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Create pull requests to add more awesome links :-)
 
 ## 2007
-* Thomas Wouters: **Advanced Python (or understanding Python)**
+* Alex Martelli: **Python Design Patterns** (Google Developers Day US)
+    * Video: [youtube](https://www.youtube.com/watch?v=0vJJlVBVTFg) [00:44:02]
+    * [Slides](http://www.aleax.it/gdd_pydp.pdf)
+
+* Thomas Wouters: **Advanced Python (or understanding Python)** (Google)
     * Video: [youtube](https://www.youtube.com/watch?v=uOzdG3lwcB4) [01:15:43]
 
 ## 2009
