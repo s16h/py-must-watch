@@ -1,5 +1,15 @@
 [
   {
+    "title": "Advanced Python (or understanding Python)",
+    "presenter": "Thomas Wouters",
+    "year": 2007,
+    "venue": "Google",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=uOzdG3lwcB4"
+    },
+    "tags": []
+  },
+  {
     "title": "Inside the Python GIL",
     "presenter": "David Beazley",
     "year": 2009,
