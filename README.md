@@ -2,6 +2,10 @@ Must-watch videos about Python
 =============
 Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Create pull requests to add more awesome links :-)
 
+## 2007
+* Thomas Wouters: **Advanced Python (or understanding Python)**
+    * Video: [youtube](https://www.youtube.com/watch?v=uOzdG3lwcB4) [01:15:43]
+
 ## 2009
 * David Beazley: **Inside the Python GIL**
     * Video: [youtube](https://www.youtube.com/watch?v=ph374fJqFPE) [01:01:03]
