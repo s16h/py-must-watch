@@ -396,6 +396,16 @@
     "tags": ["async", "asyncio"]
   },
   {
+    "title": "Modules and Packages: Live and Let Die!",
+    "presenter": "David Beazley",
+    "year": 2015,
+    "venue": "PyCon Montreal",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=0oTh1CXRaQ0"
+    },
+    "tags": ["modules", "packages"]
+  },
+  {
     "title": "Type Hints",
     "presenter": "Guido van Rossum",
     "year": 2015,
