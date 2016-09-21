@@ -7,7 +7,7 @@ def load_youtube_api_key():
     try:
         return open('youtube_api_key.txt', 'r').read().strip()
     except:
-        print('Add file called youtube_ api.txt and insert a youtube api key.')
+        print('Add file called youtube_api_key.txt and insert a youtube api key.')
         print('Youtube api key can be obtained at: https://console.developers.google.com.')
         exit(0)
 
