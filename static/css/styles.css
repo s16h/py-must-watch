@@ -2,6 +2,15 @@ body {
   background-color: #f1f1f1;
 }
 
+.announcement {
+  width: 100%;
+  margin: 10px 0;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  background: #F5C327;
+}
+
 .well-xxsm {
   padding: 0;
 }
