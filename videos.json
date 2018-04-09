@@ -384,6 +384,17 @@
     "tags": ["performance"]
   },
   {
+    "title": "CPython internals: A ten-hour codewalk through the Python interpreter source code",
+    "presenter": "Philip Guo",
+    "year": 2014,
+    "venue": "University of Rochester",
+    "notebook": "http://pgbovine.net/cpython-internals.htm",
+    "videos": {
+      "youtube": ["https://www.youtube.com/watch?v=LhadeL7_EIU", "https://www.youtube.com/watch?v=YJxmyD_aEnQ", "https://www.youtube.com/watch?v=dJD9mLPCkuc", "https://www.youtube.com/watch?v=naZTXNBbcLc", "https://www.youtube.com/watch?v=ngkl95AMl5M", "https://www.youtube.com/watch?v=ix6MTSemdUU", "https://www.youtube.com/watch?v=8-KfIsDbxVY", "https://www.youtube.com/watch?v=Wbu2wMCcTKo", "https://www.youtube.com/watch?v=wwjqMIlOuOo"]
+    },
+    "tags": ["cpython", "internals", "interpreter"]
+  },
+  {
     "title": "Beyond PEP 8 -- Best practices for beautiful intelligible code",
     "presenter": "Raymond Hettinger",
     "year": 2015,
