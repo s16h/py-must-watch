@@ -144,4 +144,4 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 
 ##2019
 
-https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2019a/c
+https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2019a/
