@@ -384,6 +384,17 @@
     "tags": ["performance"]
   },
   {
+    "title": "*Modern Python Dictionaries A confluence of a dozen great ideas",
+    "presenter": "Raymond Hettinger",
+    "year": 2017,
+    "venue": "PyCon US",
+    "presentation": "https://us.pycon.org/2017/schedule/presentation/18/",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=npw4s1QTmPg"
+    },
+    "tags": ["idiomatic"]
+  },
+  {
     "title": "Beyond PEP 8 -- Best practices for beautiful intelligible code",
     "presenter": "Raymond Hettinger",
     "year": 2015,
