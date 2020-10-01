@@ -147,3 +147,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * Raymond Hettinger: **Modern Python Dictionaries A confluence of a dozen great ideas** (PyCon US)
     * [PyCon presentation](https://us.pycon.org/2017/schedule/presentation/18/)
     * Video: [youtube](https://www.youtube.com/watch?v=npw4s1QTmPg) [00:37:37]
+    
+## 2020
+* Computerphile: **Python Sudoku Solver**
+   * Video: [youtube](https://www.youtube.com/watch?v=G_UYXzGuqvM)[00:10:52]
