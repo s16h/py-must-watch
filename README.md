@@ -1,4 +1,4 @@
-Must-watch videos about Python
+log R amazing project
 =============
 Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Create pull requests to add more awesome links :-)
 
