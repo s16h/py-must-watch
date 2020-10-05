@@ -147,3 +147,9 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * Raymond Hettinger: **Modern Python Dictionaries A confluence of a dozen great ideas** (PyCon US)
     * [PyCon presentation](https://us.pycon.org/2017/schedule/presentation/18/)
     * Video: [youtube](https://www.youtube.com/watch?v=npw4s1QTmPg) [00:37:37]
+    
+## 2019
+* Charles R. Severance - Inside the World's Largest Python Course on Coursera - PyCon 2019
+    * [ Inside the World's Largest Python Course on Coursera - PyCon 2019](https://www.youtube.com/watch?v=8S7kJz84kD8)
+ 
+   
