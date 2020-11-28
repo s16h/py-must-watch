@@ -143,6 +143,11 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * Video: [youtube](https://www.youtube.com/watch?v=_AEJHKGk9ns) [00:25:20]/[pyvideo](http://pyvideo.org/video/3466/facts-and-myths-about-python-names-and-values)
     * [Slides and new article](http://nedbatchelder.com/text/names1.html)/[Original article](http://nedbatchelder.com/text/names.html)
 
+## 2016
+* Brett Slatkin: **Refactoring Python: Why and how to restructure your code** (PyCon US)
+    * [PyCon presentation](https://us.pycon.org/2016/schedule/presentation/2073/)
+    * Video: [youtube](https://www.youtube.com/watch?v=D_6ybDcU5gc)
+
 ## 2017
 * Raymond Hettinger: **Modern Python Dictionaries A confluence of a dozen great ideas** (PyCon US)
     * [PyCon presentation](https://us.pycon.org/2017/schedule/presentation/18/)

@@ -459,5 +459,17 @@
       "pyvideo": "http://pyvideo.org/video/3466/facts-and-myths-about-python-names-and-values"
     },
     "tags": ["novice", "core"]
+  },
+  {
+    "title": "Refactoring Python: Why and how to restructure your code",
+    "presenter": "Brett Slatkin",
+    "year": 2016,
+    "venue": "PyCon 2016",
+    "presentation": "https://us.pycon.org/2016/schedule/presentation/2073/",
+    "slides": "https://speakerdeck.com/pycon2016/brett-slatkin-refactoring-python-why-and-how-to-restructure-your-code",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=D_6ybDcU5gc"
+    },
+    "tags": ["novice", "core"]
   }
 ]
