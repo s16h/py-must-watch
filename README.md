@@ -99,6 +99,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * Video: [youtube](https://www.youtube.com/watch?v=DJtef410XaM) [00:49:54]/[pyvideo](http://pyvideo.org/video/2840/the-clean-architecture-in-python)
     * [Slides](http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/)
 * Christine Spang: **Subprocess to FFI: Memory, Performance, and Why You Shouldn't Shell** (PyCon US)
+    * This talk might be [obsolete](https://bugs.python.org/issue35537) as of Python 3.8
     * [PyCon presentation](https://us.pycon.org/2014/schedule/presentation/190/)
     * Video: [youtube](https://www.youtube.com/watch?v=YAO7PUZvVPw) [00:35:13]/[pyvideo](http://pyvideo.org/video/2640/subprocess-to-ffi-memory-performance-and-why-y)
     * [Slides](https://speakerdeck.com/pycon2014/subprocess-to-ffi-by-christine-spang)
@@ -146,3 +147,8 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * Brett Slatkin: **Refactoring Python: Why and how to restructure your code** (PyCon US)
     * [PyCon presentation](https://us.pycon.org/2016/schedule/presentation/2073/)
     * Video: [youtube](https://www.youtube.com/watch?v=D_6ybDcU5gc)
+
+## 2017
+* Raymond Hettinger: **Modern Python Dictionaries A confluence of a dozen great ideas** (PyCon US)
+    * [PyCon presentation](https://us.pycon.org/2017/schedule/presentation/18/)
+    * Video: [youtube](https://www.youtube.com/watch?v=npw4s1QTmPg) [00:37:37]
