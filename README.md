@@ -3,36 +3,36 @@ Must-watch videos about Python
 Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Create pull requests to add more awesome links :-)
 
 ## 2007
-* Alex Martelli: **Python Design Patterns** (Google Developers Day US)
+* ~~Alex Martelli: **Python Design Patterns** (Google Developers Day US)~~
     * Video: [youtube](https://www.youtube.com/watch?v=0vJJlVBVTFg) [00:44:02]
     * [Slides](http://www.aleax.it/gdd_pydp.pdf)
 
-* Thomas Wouters: **Advanced Python (or understanding Python)** (Google)
+* ~~Thomas Wouters: **Advanced Python (or understanding Python)** (Google)~~
     * Video: [youtube](https://www.youtube.com/watch?v=uOzdG3lwcB4) [01:15:43]
 
 ## 2009
-* David Beazley: **Inside the Python GIL**
+* ~~David Beazley: **Inside the Python GIL**~~
     * Video: [youtube](https://www.youtube.com/watch?v=ph374fJqFPE) [01:01:03]
     * [Misc resources](http://www.dabeaz.com/GIL/)
 
 ## 2010
-* Brandon Rhodes: **The Mighty Dictionary** (PyCon Atlanta)
+* ~~Brandon Rhodes: **The Mighty Dictionary** (PyCon Atlanta)~~
     * Video: [youtube](https://www.youtube.com/watch?v=C4Kc8xzcA68) [00:30:50]/[pyvideo](http://pyvideo.org/video/276/the-mighty-dictionary-55)
     * [Slides](http://rhodesmill.org/brandon/slides/2010-03-pycon/)
-* David Beazley: **Understanding the Python GIL** (PyCon US)
+* ~~David Beazley: **Understanding the Python GIL** (PyCon US)~~
     * Video: [youtube](http://www.youtube.com/watch?v=Obt-vMVdM8s) [00:46:10]/[pyvideo](http://pyvideo.org/video/353/pycon-2010--understanding-the-python-gil---82)
     * [Misc resources](http://www.dabeaz.com/GIL/)
 
 ## 2011
-* Raymond Hettinger: **API Design: Lessons Learned** (PyCon US)
+* ~~Raymond Hettinger: **API Design: Lessons Learned** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2011/schedule/presentations/263/)
     * Video: [youtube](http://www.youtube.com/watch?v=heJuQWNdwJI) [01:17:34]/[pyvideo](http://pyvideo.org/video/366/pycon-2011--api-design--lessons-learned)
 
 ## 2012
-* Brandon Rhodes: **Python Design Patterns 1** (PyCon US)
+* ~~randon Rhodes: **Python Design Patterns 1** (PyCon US)~~
     * Video: [youtube](https://www.youtube.com/watch?v=Er5K_nR5lDQ) [01:07:50]/[pyvideo](http://pyvideo.org/video/1369/python-design-patterns-1)
     * [Slides](http://rhodesmill.org/brandon/slides/2012-07-pyohio/)
-* Erik Rose: **Parsing Horrible Things with Python** (PyCon US)
+* ~~Erik Rose: **Parsing Horrible Things with Python** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2012/schedule/presentation/468/)
     * Video: [youtube](https://www.youtube.com/watch?v=tCUdeLIj4hE) [00:30:31]/[pyvideo](http://pyvideo.org/video/708/parsing-horrible-things-with-python)
 * Jack Diederich: **Stop Writing Classes** (PyCon US)
