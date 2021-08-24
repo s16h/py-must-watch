@@ -38,7 +38,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * ~~Jack Diederich: **Stop Writing Classes** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2012/schedule/presentation/352/)
     * Video: [youtube](https://www.youtube.com/watch?v=o9pEzgHorH0) [00:27:30]/[pyvideo](http://pyvideo.org/video/880/stop-writing-classes)
-* Ned Batchelder: **Pragmatic Unicode, or, How do I stop the pain?** (PyCon US)
+* ~~Ned Batchelder: **Pragmatic Unicode, or, How do I stop the pain?** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2012/schedule/presentation/141/)
     * Video: [youtube](https://www.youtube.com/watch?v=sgHbC6udIqc) [00:36:21]/[pyvideo](http://pyvideo.org/video/948/pragmatic-unicode-or-how-do-i-stop-the-pain)
     * [Slides with text](http://nedbatchelder.com/text/unipain.html)/[Just the slides](http://nedbatchelder.com/text/unipain/unipain.html)
