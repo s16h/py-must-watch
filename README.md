@@ -35,7 +35,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
 * ~~Erik Rose: **Parsing Horrible Things with Python** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2012/schedule/presentation/468/)
     * Video: [youtube](https://www.youtube.com/watch?v=tCUdeLIj4hE) [00:30:31]/[pyvideo](http://pyvideo.org/video/708/parsing-horrible-things-with-python)
-* Jack Diederich: **Stop Writing Classes** (PyCon US)
+* ~~Jack Diederich: **Stop Writing Classes** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2012/schedule/presentation/352/)
     * Video: [youtube](https://www.youtube.com/watch?v=o9pEzgHorH0) [00:27:30]/[pyvideo](http://pyvideo.org/video/880/stop-writing-classes)
 * Ned Batchelder: **Pragmatic Unicode, or, How do I stop the pain?** (PyCon US)
