@@ -42,14 +42,14 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * [PyCon presentation](https://us.pycon.org/2012/schedule/presentation/141/)
     * Video: [youtube](https://www.youtube.com/watch?v=sgHbC6udIqc) [00:36:21]/[pyvideo](http://pyvideo.org/video/948/pragmatic-unicode-or-how-do-i-stop-the-pain)
     * [Slides with text](http://nedbatchelder.com/text/unipain.html)/[Just the slides](http://nedbatchelder.com/text/unipain/unipain.html)
-* Peter Inglesby: **Discovering Descriptors** (EuroPython)
+~~* Peter Inglesby: **Discovering Descriptors** (EuroPython)~~
     * [EuroPython presentation](https://ep2013.europython.eu/conference/talks/discovering-descriptors)
     * Video: [youtube](https://www.youtube.com/watch?v=D3-NZXHO5QI) [00:37:51]
     * [Code](https://github.com/inglesp/Discovering-Descriptors)
-* Raymond Hettinger: **The Art of Subclassing** (PyCon US)
+~~* Raymond Hettinger: **The Art of Subclassing** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2012/schedule/presentation/399/)
     * Video: [youtube](https://www.youtube.com/watch?v=miGolgp9xq8) [00:39:48]/[pyvideo](http://pyvideo.org/video/879/the-art-of-subclassing)
-* David Schachter: **How to Speed up a Python Program 114,000 times** (SF Python Usergroup)
+~~* David Schachter: **How to Speed up a Python Program 114,000 times** (SF Python Usergroup)~~
     * [Presentation](https://us.pycon.org/2012/schedule/presentation/399/)
     * [Slides](http://davidschachter.com/ds/SF_Python_Meetup_slides_public.pdf)
     * Video: [youtube](https://www.youtube.com/watch?v=e08kOj2kISU) [00:59:11]
