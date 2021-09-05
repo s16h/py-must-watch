@@ -55,7 +55,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * Video: [youtube](https://www.youtube.com/watch?v=e08kOj2kISU) [00:59:11]
 
 ## 2013
-* David Beazley: **Python 3 Metaprogramming** (PyCon US)
+* ~~David Beazley: **Python 3 Metaprogramming** (PyCon US)~~
     * [PyCon presentation](https://us.pycon.org/2013/schedule/presentation/7/)
     * Video: [youtube](https://www.youtube.com/watch?v=sPiWg5jSoZI) [03:24:00]/[pyvideo](http://pyvideo.org/video/1716/python-3-metaprogramming)
     * [Misc resources](http://www.dabeaz.com/py3meta/)
