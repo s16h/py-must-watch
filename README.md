@@ -59,10 +59,10 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). Creat
     * [PyCon presentation](https://us.pycon.org/2013/schedule/presentation/7/)
     * Video: [youtube](https://www.youtube.com/watch?v=sPiWg5jSoZI) [03:24:00]/[pyvideo](http://pyvideo.org/video/1716/python-3-metaprogramming)
     * [Misc resources](http://www.dabeaz.com/py3meta/)
-* Jessica McKellar: **The Future of Python - A Choose Your Own Adventure**
+* ~~Jessica McKellar: **The Future of Python - A Choose Your Own Adventure**~~
     * Video [youtube](https://www.youtube.com/watch?v=d1a4Jbjc-vU) [00:35:33]/[pyvideo](http://pyvideo.org/video/2375/the-future-of-python-a-choose-your-own-adventur)
     * [Slides](https://speakerdeck.com/nzpug/jessica-mckellar-the-future-of-python-a-choose-your-own-adventure-keynote)
-* Kenneth Reitz: **Python for Humans** (PyCon US)
+* ~~Kenneth Reitz: **Python for Humans** (PyCon US)~~
     * Video: [youtube](http://www.youtube.com/watch?v=QpkHt1hDYTo) [00:31:43]/[pyvideo](http://pyvideo.org/video/1785/python-for-humans-1)
     * [Slides](https://speakerdeck.com/pyconslides/python-for-humans)
 * Ned Batchelder: **Loop like a native: while, for, iterators, generators** (PyCon US)
