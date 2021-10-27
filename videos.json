@@ -459,5 +459,16 @@
       "pyvideo": "http://pyvideo.org/video/3466/facts-and-myths-about-python-names-and-values"
     },
     "tags": ["novice", "core"]
+  },
+  {
+    "title": "Big-O: How Code Slows as Data Grows",
+    "presenter": "Ned Batchelder",
+    "year": 2018,
+    "venue": "PyCon Cleveland",
+    "presentation": "https://speakerdeck.com/pycon2018",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=duvZ-2UK0fc"
+    },
+    "tags": ["big-o","computer-science", "performance" ]
   }
 ]
